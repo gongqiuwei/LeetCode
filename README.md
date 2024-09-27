@@ -1,2 +1,3 @@
 # LeetCode
-leet笔记
+
+算法学习记录
