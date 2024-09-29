@@ -8,5 +8,7 @@
 import Foundation
 
 //Solution.testIP()
-Solution.test_twoSum()
+//Solution.test_twoSum()
+//Solution.test_ipAddr()
+Solution.test_reverseStr()
 

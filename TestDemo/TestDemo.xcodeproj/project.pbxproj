@@ -10,6 +10,8 @@
 		836D02042C930B4700F95805 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836D02032C930B4700F95805 /* main.swift */; };
 		836D020C2C930C0800F95805 /* Solution01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836D020B2C930C0800F95805 /* Solution01.swift */; };
 		83DCCCB32CA69B04007057F0 /* Solution01_towSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DCCCB22CA69B04007057F0 /* Solution01_towSum.swift */; };
+		83DCCCB52CA6AB75007057F0 /* Solution01_ipAddr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DCCCB42CA6AB75007057F0 /* Solution01_ipAddr.swift */; };
+		83F8AE1C2CA805800010D851 /* Solution01_reverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F8AE1B2CA805800010D851 /* Solution01_reverseString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +32,8 @@
 		836D020B2C930C0800F95805 /* Solution01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01.swift; sourceTree = "<group>"; };
 		83DCCCB12CA69AAD007057F0 /* 02-003-纯编程题配套习题——更多教程shikey.com.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02-003-纯编程题配套习题——更多教程shikey.com.md"; sourceTree = "<group>"; };
 		83DCCCB22CA69B04007057F0 /* Solution01_towSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_towSum.swift; sourceTree = "<group>"; };
+		83DCCCB42CA6AB75007057F0 /* Solution01_ipAddr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_ipAddr.swift; sourceTree = "<group>"; };
+		83F8AE1B2CA805800010D851 /* Solution01_reverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_reverseString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 				836D020B2C930C0800F95805 /* Solution01.swift */,
 				83DCCCB12CA69AAD007057F0 /* 02-003-纯编程题配套习题——更多教程shikey.com.md */,
 				83DCCCB22CA69B04007057F0 /* Solution01_towSum.swift */,
+				83DCCCB42CA6AB75007057F0 /* Solution01_ipAddr.swift */,
+				83F8AE1B2CA805800010D851 /* Solution01_reverseString.swift */,
 			);
 			path = "01-纯编程题";
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			files = (
 				83DCCCB32CA69B04007057F0 /* Solution01_towSum.swift in Sources */,
 				836D02042C930B4700F95805 /* main.swift in Sources */,
+				83F8AE1C2CA805800010D851 /* Solution01_reverseString.swift in Sources */,
 				836D020C2C930C0800F95805 /* Solution01.swift in Sources */,
+				83DCCCB52CA6AB75007057F0 /* Solution01_ipAddr.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
