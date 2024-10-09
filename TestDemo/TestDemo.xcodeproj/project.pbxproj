@@ -7,11 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83557F442CB69FF3002C1CE4 /* Solution01_isPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83557F432CB69FF3002C1CE4 /* Solution01_isPalindrome.swift */; };
 		836D02042C930B4700F95805 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836D02032C930B4700F95805 /* main.swift */; };
 		836D020C2C930C0800F95805 /* Solution01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836D020B2C930C0800F95805 /* Solution01.swift */; };
 		83DCCCB32CA69B04007057F0 /* Solution01_towSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DCCCB22CA69B04007057F0 /* Solution01_towSum.swift */; };
 		83DCCCB52CA6AB75007057F0 /* Solution01_ipAddr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DCCCB42CA6AB75007057F0 /* Solution01_ipAddr.swift */; };
 		83F8AE1C2CA805800010D851 /* Solution01_reverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F8AE1B2CA805800010D851 /* Solution01_reverseString.swift */; };
+		83F8AE1E2CA930240010D851 /* Solution01_reverseWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F8AE1D2CA930240010D851 /* Solution01_reverseWords.swift */; };
+		83F8AE202CA941120010D851 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F8AE1F2CA941120010D851 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +30,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		83557F432CB69FF3002C1CE4 /* Solution01_isPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_isPalindrome.swift; sourceTree = "<group>"; };
 		836D02002C930B4700F95805 /* TestDemo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestDemo; sourceTree = BUILT_PRODUCTS_DIR; };
 		836D02032C930B4700F95805 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		836D020B2C930C0800F95805 /* Solution01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01.swift; sourceTree = "<group>"; };
@@ -34,6 +38,8 @@
 		83DCCCB22CA69B04007057F0 /* Solution01_towSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_towSum.swift; sourceTree = "<group>"; };
 		83DCCCB42CA6AB75007057F0 /* Solution01_ipAddr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_ipAddr.swift; sourceTree = "<group>"; };
 		83F8AE1B2CA805800010D851 /* Solution01_reverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_reverseString.swift; sourceTree = "<group>"; };
+		83F8AE1D2CA930240010D851 /* Solution01_reverseWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution01_reverseWords.swift; sourceTree = "<group>"; };
+		83F8AE1F2CA941120010D851 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +74,7 @@
 			children = (
 				836D020A2C930B5500F95805 /* 01-纯编程题 */,
 				836D02032C930B4700F95805 /* main.swift */,
+				83F8AE1F2CA941120010D851 /* Utils.swift */,
 			);
 			path = TestDemo;
 			sourceTree = "<group>";
@@ -80,6 +87,8 @@
 				83DCCCB22CA69B04007057F0 /* Solution01_towSum.swift */,
 				83DCCCB42CA6AB75007057F0 /* Solution01_ipAddr.swift */,
 				83F8AE1B2CA805800010D851 /* Solution01_reverseString.swift */,
+				83F8AE1D2CA930240010D851 /* Solution01_reverseWords.swift */,
+				83557F432CB69FF3002C1CE4 /* Solution01_isPalindrome.swift */,
 			);
 			path = "01-纯编程题";
 			sourceTree = "<group>";
@@ -144,6 +153,9 @@
 			files = (
 				83DCCCB32CA69B04007057F0 /* Solution01_towSum.swift in Sources */,
 				836D02042C930B4700F95805 /* main.swift in Sources */,
+				83F8AE1E2CA930240010D851 /* Solution01_reverseWords.swift in Sources */,
+				83F8AE202CA941120010D851 /* Utils.swift in Sources */,
+				83557F442CB69FF3002C1CE4 /* Solution01_isPalindrome.swift in Sources */,
 				83F8AE1C2CA805800010D851 /* Solution01_reverseString.swift in Sources */,
 				836D020C2C930C0800F95805 /* Solution01.swift in Sources */,
 				83DCCCB52CA6AB75007057F0 /* Solution01_ipAddr.swift in Sources */,

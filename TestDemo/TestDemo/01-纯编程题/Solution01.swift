@@ -104,7 +104,7 @@ fileprivate extension Solution {
         return true
     }
     
-    func charOf(_ str: String, at index: Int) -> Character {
+    private func charOf(_ str: String, at index: Int) -> Character {
         let index = str.index(str.startIndex, offsetBy: index)
         return str[index]
     }

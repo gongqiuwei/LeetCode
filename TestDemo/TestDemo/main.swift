@@ -10,5 +10,7 @@ import Foundation
 //Solution.testIP()
 //Solution.test_twoSum()
 //Solution.test_ipAddr()
-Solution.test_reverseStr()
+//Solution.test_reverseStr()
+//Solution.test_reverseWords()
+Solution.test_isPalindrome()
 
